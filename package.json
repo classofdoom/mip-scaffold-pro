@@ -1,0 +1,33 @@
+{
+  "name": "mip-scaffold-pro",
+  "version": "1.0.0",
+  "description": "Sovereign AI Discovery Scaffolding. Standardizing Generative Engine Optimization (GEO) for the machine economy.",
+  "main": "dist/index.js",
+  "bin": {
+    "mip-scaffold-pro": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "mip",
+    "llms-txt",
+    "geo",
+    "ai-agents",
+    "rag",
+    "tresslers-group"
+  ],
+  "author": "Tresslers Group Deep Research Division",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^13.4.3"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.9",
+    "@types/node": "^25.7.0",
+    "typescript": "^6.0.3"
+  }
+}
