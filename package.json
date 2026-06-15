@@ -1,5 +1,5 @@
 {
-  "name": "mip-scaffold-pro",
+  "name": "@tresslersgroup/mip-scaffold-pro",
   "version": "1.0.0",
   "description": "Sovereign AI Discovery Scaffolding. Standardizing Generative Engine Optimization (GEO) for the machine economy.",
   "main": "dist/index.js",
